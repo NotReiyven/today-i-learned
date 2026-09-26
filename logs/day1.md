@@ -1,6 +1,6 @@
 # Today I Learned
 
-Folders Tempered:
+Folders Tampered:
 - thebasics
 
 How to:
