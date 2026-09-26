@@ -5,4 +5,7 @@ Folders Tampered:
 
 How to:
 - HTML shortcut by typing "!" then pressing "tab"
-- Remembered divs, lists, paragraphs, etc in HTML
+- Elements
+- Attributes
+- Headings
+- Paragraphs
